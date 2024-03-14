@@ -1,9 +1,10 @@
 .container_single {
-  margin: 20px;
-  padding: 20px;
   border: 1px solid black;
   border-radius: 10px;
   background-color: #f7f3f3;
+  margin: 20px;
+  padding: 20px;
+ 
 }
 
 h2 {
@@ -13,19 +14,21 @@ h2 {
 
 input,
 select {
-  margin: 10px;
-  padding: 10px;
   border-radius: 5px;
   border: 1px solid black;
+  margin: 10px;
+  padding: 10px;
+ 
 }
 
 button {
+  border: 1px solid black;
+  background-color: #0fd616;
+  color: white;
   margin: 10px;
   padding: 10px;
   border-radius: 5px;
-  border: 1px solid black;
-  background-color: #4caf50;
-  color: white;
+
 }
 .admin {
   display: flex;
@@ -38,12 +41,13 @@ button {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin: 20px;
   padding: 20px;
   border: 1px solid black;
   border-radius: 10px;
   background-color: #f3f0f0;
 }
+  margin: 20px;
+  
 
 .event {
   display: flex;
