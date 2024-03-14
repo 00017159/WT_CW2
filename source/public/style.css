@@ -1,4 +1,4 @@
-.container_single {
+.event_container {
   border: 1px solid black;
   border-radius: 10px;
   background-color: #f7f3f3;
@@ -26,11 +26,6 @@ button {
   margin: 10px;
   padding: 10px;
   border-radius: 5px;
-}
-.admin {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .events {
