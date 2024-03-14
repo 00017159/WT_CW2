@@ -4,7 +4,6 @@
   background-color: #f7f3f3;
   margin: 20px;
   padding: 20px;
- 
 }
 
 h2 {
@@ -18,7 +17,6 @@ select {
   border: 1px solid black;
   margin: 10px;
   padding: 10px;
- 
 }
 
 button {
@@ -28,7 +26,6 @@ button {
   margin: 10px;
   padding: 10px;
   border-radius: 5px;
-
 }
 .admin {
   display: flex;
@@ -45,9 +42,8 @@ button {
   border: 1px solid black;
   border-radius: 10px;
   background-color: #f3f0f0;
-}
   margin: 20px;
-  
+}
 
 .event {
   display: flex;
